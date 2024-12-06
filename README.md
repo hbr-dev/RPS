@@ -32,11 +32,12 @@ To use the player function, follow these steps:
 
 2. Call the player function with the opponent's last move as an argument:
 
-  ````python
+  ```python
   from RPS import player
   
   next_move = player("R")  # Example: Opponent played Rock
   print(next_move)  # This will print the next move
+  ```
 
 3. For the first game, call the function with an empty string:
   ```python
