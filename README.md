@@ -43,3 +43,4 @@ To use the player function, follow these steps:
   ```python
   first_move = player("")  # No previous play
   print(first_move)  # This will print the initial move
+  ```
