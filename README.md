@@ -37,10 +37,8 @@ To use the player function, follow these steps:
   
   next_move = player("R")  # Example: Opponent played Rock
   print(next_move)  # This will print the next move
-  ```
 
 3. For the first game, call the function with an empty string:
   ```python
   first_move = player("")  # No previous play
   print(first_move)  # This will print the initial move
-  ```
